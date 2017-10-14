@@ -8,5 +8,5 @@ public class Main {
 		stu.setLastName("大大怪");
 		System.out.println(stu.getName());
 	}
-
+//只是一个注释
 }
